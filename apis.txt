@@ -1,0 +1,30 @@
+http://footlocker.gpshopper.com/
+
+http://zip.getziptastic.com/v2/US/33480
+
+
+pciis02.eastbay.com
+
+pciis02.eastbay.com/API/v2/ProductLaunch/Launches/21/
+
+/API/v2/ProductLaunch/ReleaseCalendar/21/
+
+(21)footlocker
+(20)champs
+(1)east bay
+(34) footaction
+
+http://images.footlocker.com/pi/BB1970/zoom/
+
+
+
+https://frenzy.shopifyapps.com/api/flashsales
+https://frenzy.shopifyapps.com/api/flashsales/kith/products
+
+https://secure.louisvuitton.com/ajaxsecure/getStockLevel.jsp?storeLang=eng-us&pageType=product&skuIdList=M67753
+
+https://www.adidas.com/on/demandware.store/Sites-adidas-US-Site/en_US/Product-Show?pid=%20AH2203
+
+
+//confirmed app
+https://api.adidas-confirmed.monkapps.com/api/en-US/events?country=US
